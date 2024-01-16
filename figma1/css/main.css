@@ -1,0 +1,20 @@
+@font-face{
+    font-family: n;
+    src: url(../fonts/IranNastaliq.ttf);
+}
+*{
+    font-family: n;
+    direction: rtl;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
